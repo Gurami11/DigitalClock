@@ -13,10 +13,11 @@ body{
 }
 h2{
     text-transform: uppercase;
-    letter-spacing: 4px;
-    font-size: 14px;
+    letter-spacing: 3px;
+    font-size: 34px;
     text-align: center;
     color: white;
+
 }
 .clock{
     display: flex;
@@ -39,9 +40,8 @@ h2{
 }
 .clock .text{
     height: 30px;
-    font-size: 10px;
-    text-transform: uppercase;
-    letter-spacing: 2px;
+    font-size: 15px;
+    letter-spacing: 1.5px;
     background: #00008b;
 
 }

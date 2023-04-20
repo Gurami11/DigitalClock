@@ -19,4 +19,4 @@ function updateClock() {
   ampmEl.innerText = ampm;
 }
 
-setInterval(updateClock, 900);
+setInterval(updateClock, 1000);
